@@ -97,7 +97,7 @@ export default function SnowcanWebsite() {
       </div>
 
       {/* Hero Section */}
-      <section className="flex items-center justify-center px-6">
+      <section className="min-h-screen flex items-center justify-center px-6">
         <div className="text-center">
           <img
             src="/images/snowcan-logo-with-snowman.png"
