@@ -36,6 +36,10 @@ export default function ContactPage() {
                 </CardTitle>
               </CardHeader>
               <CardContent className="space-y-4">
+                <h3 className="font-semibold text-lg mb-2 flex items-center">
+                 Owner 
+                </h3>
+                <p className="text-gray-300">HYEWON JANG</p>
                 <div>
                   <h3 className="font-semibold text-lg mb-2">Address</h3>
                   <p className="text-gray-300">
