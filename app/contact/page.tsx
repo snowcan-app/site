@@ -36,27 +36,6 @@ export default function ContactPage() {
                 </CardTitle>
               </CardHeader>
               <CardContent className="space-y-4">
-                <h3 className="font-semibold text-lg mb-2 flex items-center">
-                 Owner 
-                </h3>
-                <p className="text-gray-300">HYEWON JANG</p>
-                <div>
-                  <h3 className="font-semibold text-lg mb-2">Address</h3>
-                  <p className="text-gray-300">
-                    26-7, Cheonggyesan-ro 4-gil, Sujeong-gu
-                    <br />
-                    Seongnam-si, Gyeonggi-do,
-                    <br />
-                    Republic of Korea
-                  </p>
-                </div>
-                <div>
-                  <h3 className="font-semibold text-lg mb-2 flex items-center">
-                    <Phone className="mr-2 h-4 w-4" />
-                    Phone
-                  </h3>
-                  <p className="text-gray-300">+82 1086551677</p>
-                </div>
                 <div>
                   <h3 className="font-semibold text-lg mb-2 flex items-center">
                     <Mail className="mr-2 h-4 w-4" />
