@@ -147,12 +147,12 @@ export default function SnowcanWebsite() {
                   filter: "drop-shadow(1px 1px 2px rgba(0,0,0,0.2))",
                 }}
               >
-                Bubble City Pop
+                Plank Jump
               </h3>
               <div className="w-full mb-6">
                 <img
-                  src="/images/bubble-city-pop.png"
-                  alt="Bubble Game Screenshot"
+                  src="/images/appicon_plankjump.png"
+                  alt="Plank Jump Screenshot"
                   className="w-full h-auto rounded-lg shadow-md"
                 />
               </div>
