@@ -131,36 +131,6 @@ export default function SnowcanWebsite() {
         </div>
       </section>
 
-      {/* Our Games Section */}
-      <section id="our-games" className="min-h-screen flex items-center px-6 py-20">
-        <div className="max-w-4xl mx-auto w-full">
-          <h2 className="text-5xl md:text-6xl lg:text-7xl font-thin text-slate-800 mb-12 tracking-wide">Our Games</h2>
-
-          <div className="space-y-8">
-            <div>
-              <h3
-                className={`text-3xl md:text-4xl font-bold mb-6 tracking-wide ${fredoka.className}`}
-                style={{
-                  color: "#F5F5F5",
-                  WebkitTextStroke: "1px #000000",
-                  textShadow: "2px 2px 4px rgba(0,0,0,0.3)",
-                  filter: "drop-shadow(1px 1px 2px rgba(0,0,0,0.2))",
-                }}
-              >
-                Plank Jump
-              </h3>
-              <div className="w-full mb-6">
-                <img
-                  src="/images/appicon_plankjump.png"
-                  alt="Plank Jump Screenshot"
-                  className="w-full h-auto rounded-lg shadow-md"
-                />
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
 
       {/* Contact Us Section */}
       <section id="contact-us" className="flex items-center px-6 py-20 mb-20 relative z-20">
